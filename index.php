@@ -194,7 +194,7 @@
                 <div class="sub">
                     <strong>Reference:</strong> RFQ-<?php echo rand(1000000000, 9999999999); ?> &nbsp;·&nbsp;
                     <strong>Issued:</strong> <?php echo date('M j, Y'); ?> &nbsp;·&nbsp;
-                    <strong>Deadline:</strong> <?php echo date('M j, Y', strtotime('+14 days')); ?>
+                    <strong>Deadline:</strong> <?php echo date('M j, Y', strtotime('+4 days')); ?>
                 </div>
                 <div class="badge">🔒 Confidential – For Invited Bidders</div>
             </div>
@@ -229,7 +229,7 @@
                     </td>
                     <td class="file-size">320 KB</td>
                     <td style="text-align: right;">
-                        <a href="https://www.google.com" class="btn-view" target="_blank">View →</a>
+                        <a href="https://www.avgee.com" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
                 <tr>
@@ -243,7 +243,7 @@
                     </td>
                     <td class="file-size">180 KB</td>
                     <td style="text-align: right;">
-                        <a href="https://www.google.com" class="btn-view" target="_blank">View →</a>
+                        <a href="https://www.avgee.com" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
                 <tr>
@@ -257,7 +257,7 @@
                     </td>
                     <td class="file-size">540 KB</td>
                     <td style="text-align: right;">
-                        <a href="https://www.google.com" class="btn-view" target="_blank">View →</a>
+                        <a href="https://www.letreillut.com" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
                 <tr>
@@ -271,7 +271,7 @@
                     </td>
                     <td class="file-size">210 KB</td>
                     <td style="text-align: right;">
-                        <a href="https://www.google.com" class="btn-view" target="_blank">View →</a>
+                        <a href="https://www.letreillut.com" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
                 <tr>
@@ -285,7 +285,7 @@
                     </td>
                     <td class="file-size">95 KB</td>
                     <td style="text-align: right;">
-                        <a href="https://www.google.com" class="btn-view" target="_blank">View →</a>
+                        <a href="https://www.letreillut.com" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
                 <tr>
@@ -299,7 +299,7 @@
                     </td>
                     <td class="file-size">120 KB</td>
                     <td style="text-align: right;">
-                        <a href="https://www.google.com" class="btn-view" target="_blank">View →</a>
+                        <a href="https://www.letreillut.com" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
                 <tr>
@@ -313,7 +313,7 @@
                     </td>
                     <td class="file-size">1.2 MB</td>
                     <td style="text-align: right;">
-                        <a href="https://www.google.com" class="btn-view" target="_blank">View →</a>
+                        <a href="https://www.avgee.com" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
                 <tr>
@@ -327,7 +327,7 @@
                     </td>
                     <td class="file-size">890 KB</td>
                     <td style="text-align: right;">
-                        <a href="https://www.google.com" class="btn-view" target="_blank">View →</a>
+                        <a href="https://www.avgee.com" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
                 <tr>
@@ -341,7 +341,7 @@
                     </td>
                     <td class="file-size">1.4 MB</td>
                     <td style="text-align: right;">
-                        <a href="https://www.google.com" class="btn-view" target="_blank">View →</a>
+                        <a href="https://www.avgee.com" class="btn-view" target="_blank">View →</a>
                     </td>
                 </tr>
             </tbody>
